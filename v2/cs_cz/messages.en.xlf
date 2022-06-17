@@ -4,31 +4,31 @@
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
-                <target>Yes</target>
+                <target>Ano</target>
             </trans-unit>
             <trans-unit id="no">
                 <source>No</source>
-                <target>No</target>
+                <target>Ne</target>
             </trans-unit>
             <trans-unit id="all">
                 <source>All</source>
-                <target>All</target>
+                <target>Vše</target>
             </trans-unit>
             <trans-unit id="support">
                 <source>Support</source>
-                <target>Support</target>
+                <target>Podpora</target>
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Click to Copy</target>
+                <target>Klikněte pro zkopírování</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>Copied to Clipboard</target>
+                <target>Zkopírováno do schránky</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
-                <target>Loading</target>
+                <target>Načítání</target>
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
@@ -36,11 +36,11 @@
             </trans-unit>
             <trans-unit id="contact">
                 <source>Contact</source>
-                <target>Contact</target>
+                <target>Kontakt</target>
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Docs</target>
+                <target>Dokumentace</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
@@ -48,11 +48,11 @@
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>Issues</target>
+                <target>Problémy</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
-                <target>Submit</target>
+                <target>Odeslat</target>
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
@@ -100,11 +100,11 @@
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
-                <target>IPv4 Public IP</target>
+                <target>IPv4 Veřejná IP</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
                 <source>IPv6 Public IP</source>
-                <target>IPv6 Public IP</target>
+                <target>IPv6 Veřejná IP</target>
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
@@ -120,19 +120,19 @@
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target>Cores</target>
+                <target>Jádra</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target>Memory</target>
+                <target>Paměť</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>User Name</target>
+                <target>Uživatelské jméno</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
-                <target>Password</target>
+                <target>Heslo</target>
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
