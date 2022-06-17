@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <file source-language="en" target-language="cs" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
@@ -44,7 +44,7 @@
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>Update available</target>
+                <target>Dostupná aktualizace</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
@@ -56,11 +56,11 @@
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
-                <target>Site</target>
+                <target>Web</target>
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>Sites</target>
+                <target>Weby</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
@@ -97,6 +97,10 @@
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
                 <target>Lithuanian</target>
+            </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                <target>Čeština</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
@@ -136,27 +140,27 @@
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>Log In</target>
+                <target>Přihlásit se</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
-                <target>Settings</target>
+                <target>Nastavení</target>
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>Logout</target>
+                <target>Odhlásit se</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
-                <target>Language</target>
+                <target>Jazyk</target>
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
-                <target>First Name</target>
+                <target>Jméno</target>
             </trans-unit>
             <trans-unit id="lastName">
                 <source>Last Name</source>
-                <target>Last Name</target>
+                <target>Příjmení</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
@@ -164,59 +168,59 @@
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
-                <target>Timezone</target>
+                <target>Časové pásmo</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Generate new password</target>
+                <target>Generovat nové heslo</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>Create User</target>
+                <target>Vytvořit uživatele</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>I agree to the <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> and acknowledge the <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
+                <target>Souhlasím s <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">licenČními podmínkami</a>]]> a <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">zásadami ochrany osobních údajů</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
-                <target>An error has occurred, error message: %errorMessage%</target>
+                <target>Došlo k chybě, chybová zpráva: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
-                <target>Admin User Creation</target>
+                <target>Vytvoření administrátora</target>
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>Admin Area</target>
+                <target>Administrace</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
-                <target>Dashboard</target>
+                <target>Přehled</target>
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
-                <target>Account</target>
+                <target>Účet</target>
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>Security</target>
+                <target>Zabezpečení</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
-                <target>The account information has been saved.</target>
+                <target>Změny byly uloženy.</target>
             </trans-unit>
             <trans-unit id="save">
                 <source>Save</source>
-                <target>Save</target>
+                <target>Uložit</target>
             </trans-unit>
             <trans-unit id="create">
                 <source>Create</source>
-                <target>Create</target>
+                <target>Vytvořit</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication">
                 <source>Two-Factor Authentication</source>
-                <target>Two-Factor Authentication</target>
+                <target>Dvoufázové přihlášení</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
@@ -260,31 +264,31 @@
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
-                <target>Enter authentication code</target>
+                <target>Zadejte autorizační kód</target>
             </trans-unit>
             <trans-unit id="back-to-sites">
                 <source>Back to Sites</source>
-                <target>Back to Sites</target>
+                <target>Zpět k webům</target>
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
-                <target>Users</target>
+                <target>Uživatelé</target>
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>Add User</target>
+                <target>Přidat uživatele</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>New User</target>
+                <target>Nový uživatel</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
-                <target>Active</target>
+                <target>Aktivní</target>
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>Not Active</target>
+                <target>Neaktivní</target>
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
@@ -292,7 +296,7 @@
             </trans-unit>
             <trans-unit id="role-user">
                 <source>User</source>
-                <target>User</target>
+                <target>Uživatel</target>
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
@@ -300,15 +304,15 @@
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
-                <target>User has been added.</target>
+                <target>Uživatelský účet byl vytvořen.</target>
             </trans-unit>
             <trans-unit id="user-has-been-updated">
                 <source>User has been updated.</source>
-                <target>User has been updated.</target>
+                <target>Uživatelský účet byl aktualizován.</target>
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
-                <target>No users found.</target>
+                <target>Nebyli nalezeni žádní uživatelé.</target>
             </trans-unit>
             <trans-unit id="role">
                 <source>Role</source>
@@ -316,15 +320,15 @@
             </trans-unit>
             <trans-unit id="status">
                 <source>Status</source>
-                <target>Status</target>
+                <target>Stav</target>
             </trans-unit>
             <trans-unit id="delete">
                 <source>Delete</source>
-                <target>Delete</target>
+                <target>Smazat</target>
             </trans-unit>
             <trans-unit id="are-you-sure">
                 <source>Are you sure?</source>
-                <target>Are you sure?</target>
+                <target>Jste si jistí?</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
@@ -332,27 +336,27 @@
             </trans-unit>
             <trans-unit id="events">
                 <source>Events</source>
-                <target>Events</target>
+                <target>Události</target>
             </trans-unit>
             <trans-unit id="no-events-found">
                 <source>No events found.</source>
-                <target>No events found.</target>
+                <target>Nebyly nalezeny žádné události.</target>
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>Event Time</target>
+                <target>Čas události</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
-                <target>Event</target>
+                <target>Událost</target>
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
-                <target>View</target>
+                <target>Zobrazit</target>
             </trans-unit>
             <trans-unit id="notifications">
                 <source>Notifications</source>
-                <target>Notifications</target>
+                <target>Oznámení</target>
             </trans-unit>
             <trans-unit id="no-notifications-found">
                 <source>No notifications found.</source>
