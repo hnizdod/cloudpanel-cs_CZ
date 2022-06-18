@@ -300,15 +300,15 @@
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>Site Manager</target>
+                <target>Správce webů</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
-                <target>Uživatelský účet byl vytvořen.</target>
+                <target>Uživatel byl vytvořen.</target>
             </trans-unit>
             <trans-unit id="user-has-been-updated">
                 <source>User has been updated.</source>
-                <target>Uživatelský účet byl aktualizován.</target>
+                <target>Uživatel byl aktualizován.</target>
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
@@ -332,7 +332,7 @@
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
-                <target>User has been deleted.</target>
+                <target>Uživatel byl smazáno.</target>
             </trans-unit>
             <trans-unit id="events">
                 <source>Events</source>
@@ -360,31 +360,31 @@
             </trans-unit>
             <trans-unit id="no-notifications-found">
                 <source>No notifications found.</source>
-                <target>No notifications found.</target>
+                <target>Žádná oznámení.</target>
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
-                <target>Notification has been deleted.</target>
+                <target>Oznámení byla smazána.</target>
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
-                <target>Show Message</target>
+                <target>Zobrazit zprávu</target>
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
-                <target>Severity</target>
+                <target>Důležitost</target>
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
-                <target>Date</target>
+                <target>Datum</target>
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
-                <target>Message</target>
+                <target>Zpráva</target>
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
-                <target>Action</target>
+                <target>Akce</target>
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
@@ -392,23 +392,23 @@
             </trans-unit>
             <trans-unit id="warning">
                 <source>Warning</source>
-                <target>Warning</target>
+                <target>Varování</target>
             </trans-unit>
             <trans-unit id="critical">
                 <source>Critical</source>
-                <target>Critical</target>
+                <target>Kritické</target>
             </trans-unit>
             <trans-unit id="more-information">
                 <source>More Information</source>
-                <target>More Information</target>
+                <target>Více informací</target>
             </trans-unit>
             <trans-unit id="mark-as-read">
                 <source>Mark as Read</source>
-                <target>Mark as Read</target>
+                <target>Označit jako přečtené</target>
             </trans-unit>
             <trans-unit id="mark-as-unread">
                 <source>Mark as Unread</source>
-                <target>Mark as Unread</target>
+                <target>Označit jako nepřečtené</target>
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
@@ -420,115 +420,115 @@
             </trans-unit>
             <trans-unit id="service">
                 <source>Service</source>
-                <target>Service</target>
+                <target>Služba</target>
             </trans-unit>
             <trans-unit id="services">
                 <source>Services</source>
-                <target>Services</target>
+                <target>Služby</target>
             </trans-unit>
             <trans-unit id="rules">
                 <source>Rules</source>
-                <target>Rules</target>
+                <target>Pravidla</target>
             </trans-unit>
             <trans-unit id="add-rule">
                 <source>Add Rule</source>
-                <target>Add Rule</target>
+                <target>Přidat pravidlo</target>
             </trans-unit>
             <trans-unit id="no-rules-found">
                 <source>No rules found.</source>
-                <target>No rules found.</target>
+                <target>Nebyla nalezena žádná pravidla.</target>
             </trans-unit>
             <trans-unit id="add-firewall-rule">
                 <source>Add Firewall Rule</source>
-                <target>Add Firewall Rule</target>
+                <target>Přidat Firewall pravidlo</target>
             </trans-unit>
             <trans-unit id="rule-has-been-added">
                 <source>Rule has been added.</source>
-                <target>Rule has been added.</target>
+                <target>Pravidlo bylo přidáno.</target>
             </trans-unit>
             <trans-unit id="rule-has-been-deleted">
                 <source>Rule has been deleted.</source>
-                <target>Rule has been deleted.</target>
+                <target>Pravidlo bylo smazáno.</target>
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
-                <target>Type</target>
+                <target>Typ</target>
             </trans-unit>
             <trans-unit id="custom-tcp">
                 <source>Custom TCP</source>
-                <target>Custom TCP</target>
+                <target>Vlastní TCP</target>
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Port Range</target>
+                <target>Rozsah portů</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
-                <target>IP Version</target>
+                <target>Typ IP</target>
             </trans-unit>
             <trans-unit id="rule-source">
                 <source>Source</source>
-                <target>Source</target>
+                <target>Zdroj</target>
             </trans-unit>
             <trans-unit id="rule-source-custom">
                 <source>Custom</source>
-                <target>Custom</target>
+                <target>Vlastní</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
                 <source>Anywhere-IPv4</source>
-                <target>Anywhere-IPv4</target>
+                <target>Jakákoli-IPv4</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv6">
                 <source>Anywhere-IPv6</source>
-                <target>Anywhere-IPv6</target>
+                <target>Jakákoli-IPv6</target>
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
-                <target>My IP</target>
+                <target>Má IP</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
-                <target>IP or CIDR</target>
+                <target>IP nebo CIDR</target>
             </trans-unit>
             <trans-unit id="rule-description">
                 <source>Description</source>
-                <target>Description</target>
+                <target>Popis</target>
             </trans-unit>
             <trans-unit id="actions">
                 <source>Actions</source>
-                <target>Actions</target>
+                <target>Akce</target>
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
-                <target>Edit Firewall Rule</target>
+                <target>Upravit Firewall pravidlo</target>
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Basic Auth</target>
+                <target>Základní ověření</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>Enable Basic Auth</target>
+                <target>Aktivovat základní ověření</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>Basic Auth in front of CloudPanel adds an extra layer of security.</target>
+                <target>Základní ověření před přihlášením do ClouPanelu přidává další úroveň zabezpečení.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>Basic Auth has been enabled.</target>
+                <target>Základní ověření bylo aktivováno.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>Running</target>
+                <target>Běží</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
-                <target>Stopped</target>
+                <target>Zastaveno</target>
             </trans-unit>
             <trans-unit id="restart">
                 <source>Restart</source>
-                <target>Restart</target>
+                <target>Restartovat</target>
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
