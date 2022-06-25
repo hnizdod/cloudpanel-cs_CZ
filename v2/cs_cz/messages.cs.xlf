@@ -44,7 +44,7 @@
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>Dostupná aktualizace</target>
+                <target>Je dostupná aktualizace</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
@@ -64,39 +64,39 @@
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
-                <target>German</target>
+                <target>Němčina</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
-                <target>English</target>
+                <target>Angličtina</target>
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>French</target>
+                <target>Francouzština</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>Dutch</target>
+                <target>Holandština</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>Italian</target>
+                <target>Italština</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>Spanish</target>
+                <target>Španělština</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Portuguese</target>
+                <target>Portugalština</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>Greek</target>
+                <target>Řečtina</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanian</target>
+                <target>Litevština</target>
             </trans-unit>
             <trans-unit id="locale-czech">
                 <source>Czech</source>
@@ -568,7 +568,7 @@
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>It's recommended to reboot the instance after changing the timezone.</target>
+                <target>Po změně časového pásma je doporučeno server restartovat.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
